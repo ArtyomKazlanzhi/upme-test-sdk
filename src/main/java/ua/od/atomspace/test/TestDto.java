@@ -1,3 +1,5 @@
+package ua.od.atomspace.test;
+
 public class TestDto {
     private String name;
 
